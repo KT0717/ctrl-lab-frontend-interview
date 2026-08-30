@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="72" viewBox="0 0 300 72" role="img" aria-labelledby="title">
+  <title id="title">CTRL+LAB 2027</title>
+  <text x="0" y="53" font-family="Arial Black,Arial,sans-serif" font-size="54" font-weight="900" letter-spacing="-4" fill="#111">CTRL</text>
+  <path d="M158 20h11v11h11v11h-11v11h-11V42h-11V31h11V20Z" fill="#ff5c35"/>
+  <text x="188" y="53" font-family="Arial Black,Arial,sans-serif" font-size="47" font-weight="900" letter-spacing="-3" fill="#2864ff">LAB</text>
+  <text x="191" y="68" font-family="Arial,sans-serif" font-size="9" font-weight="900" letter-spacing="3" fill="#111">2027</text>
+</svg>

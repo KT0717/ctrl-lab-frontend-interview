@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="86" viewBox="0 0 260 86">
+  <rect x="1" y="1" width="258" height="84" rx="4" fill="#ff5c35" stroke="#111" stroke-width="2"/>
+  <path d="M18 18h48M18 26h32M194 18h48M210 26h32" stroke="#111" stroke-width="2"/>
+  <text x="18" y="56" font-family="Arial,sans-serif" font-size="19" font-weight="900" letter-spacing="2" fill="#111">PROTOTYPE 01</text>
+  <text x="18" y="72" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1" fill="#111">INTERACTION DEVICE / 2027</text>
+</svg>
